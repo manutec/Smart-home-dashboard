@@ -1,0 +1,6 @@
+#audioCanvas {
+    height: 100px;
+    width: 500px;
+    background: linear-gradient(0deg,#ffc371 0%,#ff5f6d 100%);
+    border-radius: 10px;
+}
